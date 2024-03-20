@@ -6,7 +6,7 @@
   <li>Jestem otwarty na nowe wywania oraz naukę nowych umiejętności</li>
 </ul>
 
-### Skills
+### ![image](https://github.com/reksio6666/reksio6666/assets/163910135/336ce82c-fd2a-4bb8-b7b4-cdda8abef350) Skills 
 
 
 <!--
